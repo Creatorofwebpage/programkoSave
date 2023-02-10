@@ -24,4 +24,4 @@ for i in text:
         newText += "V"
         vIsWaiting += 1
 
-print(newText+"T"*vIsWaiting)
+print(newText+"k"*vIsWaiting)
